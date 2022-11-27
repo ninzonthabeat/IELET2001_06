@@ -238,7 +238,6 @@ void loop() {
   }
 
   // gyroscope logic  
-  hasFallen = true;
   
   if (myICM.dataReady())
   { 
